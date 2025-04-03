@@ -42,3 +42,4 @@ Python (Data analysis and visualization) Libraries:
 
 ## Interactive dashboard on Tableau Pablic
 [Link to the dashboard](https://public.tableau.com/app/profile/tetiana.dynys/viz/GlobalCybersecurityThreatsDashboard_17436640181190/Dashboard1)
+![image](https://github.com/dynystetiana/Global-Cybersecurity-Threats-Analysis/blob/main/Global%20Cybersecurity%20Threats%20Dashboard.png)
