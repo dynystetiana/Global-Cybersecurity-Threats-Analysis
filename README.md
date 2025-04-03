@@ -36,8 +36,8 @@ The project focuses on:
 ## Technologies:
 Python (Data analysis and visualization) Libraries:
 
-- Pandas (Data manipulation)
-- Scipy (Сonducting statistical tests)
-- Matplotlib, Seaborn (Data visualization)
+- **Pandas** (Data manipulation)
+- **Scipy** (Сonducting statistical tests)
+- **Matplotlib, Seaborn** (Data visualization)
 
 ## Interactive dashboard on Tableau Pablic
