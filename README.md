@@ -5,7 +5,7 @@ This project analyzes global cybersecurity incidents to identify trends, impacts
 ## Dataset
 The analysis is based on the "Global Cybersecurity" dataset, which includes detailed records of cybersecurity incidents worldwide.
 
-[Kaggle Global Cybersecurity Analysis dataset](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
+[Kaggle Global Cybersecurity Threats (2015-2024) dataset](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
 
 The dataset comprises information such as:
 - **Year**: When the incident occurred.
